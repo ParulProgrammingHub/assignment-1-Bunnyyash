@@ -1,0 +1,5 @@
+b=input("enter the base of the triangle :")
+h=input("enter the height of the triangle :")
+area=0.5*(b*h)
+print "Area of the triangle for %d base and %d height is %d" %(b,h,area)
+n=raw_input("press any to exit")
